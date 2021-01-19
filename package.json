@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pedrolag/waves.git"
+    "url": "git+https://github.com/pedrolag/gulp-babel-sass-browersync.git"
   },
   "author": "",
   "license": "ISC",
